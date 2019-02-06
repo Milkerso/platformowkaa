@@ -32,9 +32,9 @@ namespace SnakeClassic_Csharp_dev.pl
 
         protected override void LoadContent()
         {
-            PlayerBodyTexture = game.Content.Load<Texture2D>("PlayerBody");
-            ItemTexture = game.Content.Load<Texture2D>("Item");
-            BackgroundTexture = game.Content.Load<Texture2D>("Background");
+            PlayerBodyTexture = game.Content.Load<Texture2D>("Player/Player");
+            ItemTexture = game.Content.Load<Texture2D>("Menu/Item");
+            BackgroundTexture = game.Content.Load<Texture2D>("Background/background");
           
         }
 
@@ -80,14 +80,14 @@ namespace SnakeClassic_Csharp_dev.pl
             recBackground.Height = GraphicsDevice.Viewport.Height;
             recBackground.X = 0; recBackground.Y = 0;
             //
-            BlockSize = GraphicsDevice.Viewport.Width / 64 + GraphicsDevice.Viewport.Height / 64;
+            BlockSize = GraphicsDevice.Viewport.Width / 32 + GraphicsDevice.Viewport.Height / 32;
             recItem.Height = BlockSize; recItem.Width = BlockSize;
         }
 
         private void AddBodyBlock()
         {
             if (IsStart)
-                recPlayerBody.Add(new Rectangle(100, 100, BlockSize, BlockSize));
+                recPlayerBody.Add(new Rectangle(200, 200, BlockSize, BlockSize));
             else
             {
                 ++BodyIndex;

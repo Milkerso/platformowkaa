@@ -31,12 +31,6 @@ C:\Users\Cross-KarOL\Source\Repos\platformowkaa\Game1\Game1\obj\x86\Debug\Game1.
 C:\Users\Cross-KarOL\Source\Repos\platformowkaa\Game1\Game1\obj\x86\Debug\Game1.exe
 C:\Users\Cross-KarOL\Source\Repos\platformowkaa\Game1\Game1\obj\x86\Debug\Game1.pdb
 C:\Users\Cross-KarOL\Source\Repo\platformowkaa\Game1\bin\Windows\x86\Debug\Content\background.xnb
-C:\Users\Cross-KarOL\Source\Repo\platformowkaa\Game1\bin\Windows\x86\Debug\Content\button.xnb
-C:\Users\Cross-KarOL\Source\Repo\platformowkaa\Game1\bin\Windows\x86\Debug\Content\ExitButton.xnb
-C:\Users\Cross-KarOL\Source\Repo\platformowkaa\Game1\bin\Windows\x86\Debug\Content\item.xnb
-C:\Users\Cross-KarOL\Source\Repo\platformowkaa\Game1\bin\Windows\x86\Debug\Content\Logo.xnb
-C:\Users\Cross-KarOL\Source\Repo\platformowkaa\Game1\bin\Windows\x86\Debug\Content\PlayButton.xnb
-C:\Users\Cross-KarOL\Source\Repo\platformowkaa\Game1\bin\Windows\x86\Debug\Content\PlayerBody.xnb
 C:\Users\Cross-KarOL\Source\Repo\platformowkaa\Game1\bin\Windows\x86\Debug\Game1.exe
 C:\Users\Cross-KarOL\Source\Repo\platformowkaa\Game1\bin\Windows\x86\Debug\Game1.pdb
 C:\Users\Cross-KarOL\Source\Repo\platformowkaa\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
@@ -62,3 +56,11 @@ C:\Users\Cross-KarOL\Source\Repo\platformowkaa\Game1\obj\x86\Debug\Game1.csproj.
 C:\Users\Cross-KarOL\Source\Repo\platformowkaa\Game1\obj\x86\Debug\Game1.csproj.CopyComplete
 C:\Users\Cross-KarOL\Source\Repo\platformowkaa\Game1\obj\x86\Debug\Game1.exe
 C:\Users\Cross-KarOL\Source\Repo\platformowkaa\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\Cross-KarOL\Source\Repo\platformowkaa\Game1\bin\Windows\x86\Debug\Content\Player\Enemy_1.xnb
+C:\Users\Cross-KarOL\Source\Repo\platformowkaa\Game1\bin\Windows\x86\Debug\Content\Player\Enemy_2.xnb
+C:\Users\Cross-KarOL\Source\Repo\platformowkaa\Game1\bin\Windows\x86\Debug\Content\Player\Player.xnb
+C:\Users\Cross-KarOL\Source\Repo\platformowkaa\Game1\bin\Windows\x86\Debug\Content\Background\background.xnb
+C:\Users\Cross-KarOL\Source\Repo\platformowkaa\Game1\bin\Windows\x86\Debug\Content\Menu\ExitButton.xnb
+C:\Users\Cross-KarOL\Source\Repo\platformowkaa\Game1\bin\Windows\x86\Debug\Content\Menu\PlayButton.xnb
+C:\Users\Cross-KarOL\Source\Repo\platformowkaa\Game1\bin\Windows\x86\Debug\Content\Menu\button.xnb
+C:\Users\Cross-KarOL\Source\Repo\platformowkaa\Game1\bin\Windows\x86\Debug\Content\Menu\item.xnb

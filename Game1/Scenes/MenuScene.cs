@@ -30,9 +30,9 @@ namespace SnakeClassic_Csharp_dev.pl
 
         protected override void LoadContent()
         {
-            PlayButtonTexture = game.Content.Load<Texture2D>("PlayButton");
-            ExitButtonTexture = game.Content.Load<Texture2D>("ExitButton");
-            LogoTexture = game.Content.Load<Texture2D>("button");
+            PlayButtonTexture = game.Content.Load<Texture2D>("Menu/PlayButton");
+            ExitButtonTexture = game.Content.Load<Texture2D>("Menu/ExitButton");
+            LogoTexture = game.Content.Load<Texture2D>("Menu/button");
         }
       
         public void Draw(SpriteBatch spriteBatch, GameTime gameTime)

@@ -4,12 +4,15 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/Cross-KarOL/Source/Repo/platformowkaa/Game1/Content/button.png</File>
-    <File>C:/Users/Cross-KarOL/Source/Repo/platformowkaa/Game1/Content/background.jpg</File>
-    <File>C:/Users/Cross-KarOL/Source/Repo/platformowkaa/Game1/Content/ExitButton.jpg</File>
-    <File>C:/Users/Cross-KarOL/Source/Repo/platformowkaa/Game1/Content/item.jpg</File>
-    <File>C:/Users/Cross-KarOL/Source/Repo/platformowkaa/Game1/Content/Logo.png</File>
-    <File>C:/Users/Cross-KarOL/Source/Repo/platformowkaa/Game1/Content/PlayButton.jpg</File>
-    <File>C:/Users/Cross-KarOL/Source/Repo/platformowkaa/Game1/Content/PlayerBody.jpg</File>
+    <File>C:/Users/Cross-KarOL/Source/Repo/platformowkaa/Game1/Content/Player/Enemy_1.png</File>
+    <File>C:/Users/Cross-KarOL/Source/Repo/platformowkaa/Game1/Content/Player/Enemy_2.png</File>
+    <File>C:/Users/Cross-KarOL/Source/Repo/platformowkaa/Game1/Content/Player/Player.png</File>
+    <File>C:/Users/Cross-KarOL/Source/Repo/platformowkaa/Game1/Content/Background/background.jpg</File>
+    <File>C:/Users/Cross-KarOL/Source/Repo/platformowkaa/Game1/Content/Menu/ExitButton.jpg</File>
+    <File>C:/Users/Cross-KarOL/Source/Repo/platformowkaa/Game1/Content/Menu/PlayButton.jpg</File>
+    <File>C:/Users/Cross-KarOL/Source/Repo/platformowkaa/Game1/Content/Menu/button.png</File>
+    <File>C:/Users/Cross-KarOL/Source/Repo/platformowkaa/Game1/Content/Menu/item.jpg</File>
+    <File>C:/Users/Cross-KarOL/Source/Repo/platformowkaa/Game1/Content/Bullet.png</File>
+    <File>C:/Users/Cross-KarOL/Source/Repo/platformowkaa/Game1/Content/Explosion.png</File>
   </SourceFiles>
 </SourceFileCollection>
