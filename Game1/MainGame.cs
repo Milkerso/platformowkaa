@@ -12,7 +12,7 @@ namespace SnakeClassic_Csharp_dev.pl
         public int Score { get; set; }
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
-        //scenes
+        //scenesdsadadsadasd
         MenuScene menuScene;
         GameScene gameScene;
         GameOverScene gameOverScene;

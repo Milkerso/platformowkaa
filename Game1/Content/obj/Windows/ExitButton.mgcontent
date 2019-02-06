@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Cross-KarOL/Source/Repos/platformowkaa/Game1/Game1/Content/ExitButton.jpg</SourceFile>
-  <SourceTime>2019-02-06T15:04:08.0586794+01:00</SourceTime>
-  <DestFile>C:/Users/Cross-KarOL/Source/Repos/platformowkaa/Game1/Game1/Content/bin/Windows/ExitButton.xnb</DestFile>
-  <DestTime>2019-02-06T15:04:43.1796882+01:00</DestTime>
+  <SourceFile>C:/Users/Cross-KarOL/Source/Repo/platformowkaa/Game1/Content/ExitButton.jpg</SourceFile>
+  <SourceTime>2019-02-06T15:14:51.2774694+01:00</SourceTime>
+  <DestFile>C:/Users/Cross-KarOL/Source/Repo/platformowkaa/Game1/Content/bin/Windows/ExitButton.xnb</DestFile>
+  <DestTime>2019-02-06T15:16:43.8629089+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
