@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Cross-KarOL/Source/Repos/platformowkaa/Game1/Game1/Content/button.png</File>
+    <File>C:/Users/Cross-KarOL/Source/Repos/platformowkaa/Game1/Game1/Content/background.jpg</File>
+    <File>C:/Users/Cross-KarOL/Source/Repos/platformowkaa/Game1/Game1/Content/ExitButton.jpg</File>
+    <File>C:/Users/Cross-KarOL/Source/Repos/platformowkaa/Game1/Game1/Content/item.jpg</File>
+    <File>C:/Users/Cross-KarOL/Source/Repos/platformowkaa/Game1/Game1/Content/Logo.png</File>
+    <File>C:/Users/Cross-KarOL/Source/Repos/platformowkaa/Game1/Game1/Content/PlayButton.jpg</File>
+    <File>C:/Users/Cross-KarOL/Source/Repos/platformowkaa/Game1/Game1/Content/PlayerBody.jpg</File>
+  </SourceFiles>
+</SourceFileCollection>
