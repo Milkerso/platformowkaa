@@ -15,7 +15,7 @@ namespace SnakeClassic_Csharp_dev.pl
         {
             using (var game = new MainGame())
                 game.Run();
-            // lolololol
+            // lololololfasfdas
         }
     }
 }
