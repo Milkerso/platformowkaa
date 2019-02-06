@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Cross-KarOL/source/Repo/platformowkaa/Game1/Content/Bullet.png</SourceFile>
+  <SourceFile>C:/Users/Cross-KarOL/source/Repo/platformowkaa/Game1/Content/Ships/Enemy_2.png</SourceFile>
   <SourceTime>2018-08-08T13:00:30+02:00</SourceTime>
-  <DestFile>C:/Users/Cross-KarOL/source/Repo/platformowkaa/Game1/Content/bin/Windows/Bullet.xnb</DestFile>
-  <DestTime>2019-02-06T17:56:42.0408933+01:00</DestTime>
+  <DestFile>C:/Users/Cross-KarOL/source/Repo/platformowkaa/Game1/Content/bin/Windows/Ships/Enemy_2.xnb</DestFile>
+  <DestTime>2019-02-06T17:56:42.0548941+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

@@ -1,7 +1,8 @@
 ﻿using System;
 
-namespace SnakeClassic_Csharp_dev.pl
+namespace GameShooter
 {
+#if WINDOWS || LINUX
     /// <summary>
     /// The main class.
     /// </summary>
@@ -13,9 +14,9 @@ namespace SnakeClassic_Csharp_dev.pl
         [STAThread]
         static void Main()
         {
-            using (var game = new MainGame())
+            using (var game = new Game1())
                 game.Run();
-            // lololololfasfdasgfdsgsd
         }
     }
+#endif
 }

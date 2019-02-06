@@ -1,0 +1,2 @@
+C:\Users\Cross-KarOL\Source\Repo\platformowkaa\Game1\obj\x86\Debug\GameShooter.csprojAssemblyReference.cache
+C:\Users\Cross-KarOL\Source\Repo\platformowkaa\Game1\obj\x86\Debug\GameShooter.csproj.CoreCompileInputs.cache
